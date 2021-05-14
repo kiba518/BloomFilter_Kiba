@@ -11,7 +11,7 @@ using System.Transactions;
 
 namespace Utility
 {
-    public class SQLServerHelper : IDisposable 
+    public class SQLServerHelper : IDisposable
     {
         public SQLServerHelper()
         {
